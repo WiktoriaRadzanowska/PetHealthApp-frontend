@@ -32,7 +32,7 @@ Aplikacja mobilna do zarządzania zdrowiem zwierząt domowych, stworzona w React
 
 1. Sklonuj repozytorium:
 ```
-   git clone 
+   git clone https://github.com/WiktoriaRadzanowska/PetHealthApp-frontend.git
    cd PetHealthApp-frontend
 ```
 
